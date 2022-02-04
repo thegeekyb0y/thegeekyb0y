@@ -20,6 +20,10 @@ I am __Aditya Tiwari__.
 ### UI Design/Graphic Design skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
+  
+### Recent Blogs: 
+• ![Web3 : A scam or future?](adityacodes.hashnode.dev/web3)
+• ![100+ Resources for Developers](adityacodes.hashnode.dev/webdev-resources)
 
 Reach me out : thegeekyboy.in@gmail.com
 
