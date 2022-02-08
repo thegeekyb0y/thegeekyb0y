@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-I am __Aditya Tiwari__.
+## I am __Aditya Tiwari__.
  - Web Developer
  - Web Designer
  - Python Programmer
