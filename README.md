@@ -1,10 +1,4 @@
-# 👋 Hello World!
-
-I am __Aditya Tiwari__.
- - Web Developer
- - Web Designer
- - Python Programmer
- - Content Creator and Blogger
+#  </ Aditya Tiwari >
 
 ### My Tech Stack:
 <div>
@@ -22,7 +16,13 @@ I am __Aditya Tiwari__.
 **Reach me out** : thegeekyboy.in@gmail.com
 
 ---
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thegeekyb0y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityacodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thegeekyb0y) 
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegeekyb0y&show_icons=true&theme=chartreuse-dark) 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=thegeekyb0y&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegeekyb0y&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thegeekyb0y&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=thegeekyb0y&icon=0&color=0)](https://visitcount.itsvg.in)
