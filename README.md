@@ -40,6 +40,7 @@ He like to **create and contribute** to open source projects. In his free time, 
 **Reach me out** : thegeekyboy.in@gmail.com
 
 ---
+### Recent Blogs 
 <!-- BLOG-POST-LIST:START -->
 - [Web3.0 - Future or Scam?](https://adityacodes.hashnode.dev/web3)
 - [100+ Resources for Developers to Boost their productivity!](https://adityacodes.hashnode.dev/webdev-resources)
