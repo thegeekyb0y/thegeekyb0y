@@ -32,6 +32,7 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 
 ---
+
 ## Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thegeekyb0y) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityacodes) 
@@ -40,6 +41,7 @@ He like to **create and contribute** to open source projects. In his free time, 
 **Reach me out** : thegeekyboy.in@gmail.com
 
 ---
+
 ### Recent Blogs 
 <!-- BLOG-POST-LIST:START -->
 - [Web3.0 - Future or Scam?](https://adityacodes.hashnode.dev/web3)
@@ -48,7 +50,6 @@ He like to **create and contribute** to open source projects. In his free time, 
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-
- ![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false) 
 
 
