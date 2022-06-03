@@ -5,10 +5,15 @@
 </p>
 
 
-Aditya is a 16y/o **Front End Developer** based in India , He is passionate about **open-source, coding, and web technologies**.
-
+Aditya is a **Front End Developer** based in India.&nbsp;
+He is passionate about **open-source, coding, and web technologies**.
 He like to **create and contribute** to open source projects. In his free time, He do **content creation/blogging** and share my learnings to world.
 
+### I'm open to:
+- Sponsorships 
+- Work oppurtunities
+- Collaborations for projects
+- Developer advocacy oppurtunities 
 ---
 
 ## Languages and tools  </>
@@ -25,13 +30,6 @@ He like to **create and contribute** to open source projects. In his free time, 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>     
 
----
-
-### I'm open to:
-- Sponsorships 
-- Work oppurtunities
-- Collaborations for projects
-- Developer advocacy oppurtunities 
 
 ---
 ## Let's Connect
