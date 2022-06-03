@@ -1,10 +1,9 @@
 
-  
 <h1 align="center">Hi , I'm Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Front+End+Developer;Python+Programmer%20|%20UI+Designer%20;Content%20Creator%20|+Blogger&center=true&width=500&height=50"></a>
 </p>
-<hr/>
+
 
 Aditya is a 16y/o **Front End Developer** based in India , He is passionate about **open-source, coding, and web technologies**.
 
@@ -25,6 +24,14 @@ He like to **create and contribute** to open source projects. In his free time, 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>     
+
+---
+
+### I'm open to:
+- Sponsorships 
+- Work oppurtunities
+- Collaborations for projects
+- Developer advocacy oppurtunities 
 
 ---
 ## Let's Connect
