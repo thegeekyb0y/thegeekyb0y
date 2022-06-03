@@ -41,7 +41,9 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 ---
 <!-- BLOG-POST-LIST:START -->
-
+- [Web3.0 - Future or Scam?](https://adityacodes.hashnode.dev/web3)
+- [100+ Resources for Developers to Boost their productivity!](https://adityacodes.hashnode.dev/webdev-resources)
+- [String Manipulation In Python : Part 1](https://adityacodes.hashnode.dev/string-manipulation-in-python-part-1)
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
