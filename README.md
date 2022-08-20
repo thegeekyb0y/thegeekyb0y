@@ -44,10 +44,10 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 ### Recent Blogs 
 <!-- BLOG-POST-LIST:START -->
-- [Python Lists and Methods Explained](https://adicode.ml/lists-cheat)
-- [Web3.0 - Future or Scam?](https://adicode.ml/web3)
-- [100+ Resources for Developers to Boost their productivity!](https://adicode.ml/webdev-resources)
-- [String Manipulation In Python : Part 1](https://adicode.ml/string-manipulation-in-python-part-1)
+- [Python Lists and Methods Explained](https://adityacodes.hashnode.dev/lists-cheat)
+- [Web3.0 - Future or Scam?](https://adityacodes.hashnode.dev/web3)
+- [100+ Resources for Developers to Boost their productivity!](https://adityacodes.hashnode.dev/webdev-resources)
+- [String Manipulation In Python : Part 1](https://adityacodes.hashnode.dev/string-manipulation-in-python-part-1)
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
