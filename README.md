@@ -44,11 +44,11 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 ### Recent Blogs 
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s Role in Spotify&#39;s Cutting Edge Technology](https://adicode.ml/pythons-role-in-spotifys-cutting-edge-technology)
 - [Python - The easy way](https://adicode.ml/python-the-easy-way)
 - [Python Lists and Methods Explained](https://adicode.ml/lists-cheat)
 - [Web3.0 - Future or Scam?](https://adicode.ml/web3)
 - [100+ Resources for Developers to Boost their productivity!](https://adicode.ml/webdev-resources)
-- [String Manipulation In Python : Part 1](https://adicode.ml/string-manipulation-in-python-part-1)
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
