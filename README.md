@@ -5,9 +5,9 @@
 </p>
 
 
-Aditya is a **Front End Developer** based in India.&nbsp;
-He is passionate about **open-source, coding, and web technologies**.
-He like to **create and contribute** to open source projects. In his free time, He do **content creation/blogging** and share his learnings to world.
+I am a **Front End Developer** based in India.&nbsp;
+I am passionate about **open-source, coding, and web technologies**.
+I like to **create and contribute** to open source projects. In my free time, I do **content creation/blogging** and share my learnings to world.
 
 ### I'm open to:
 - Sponsorships 
