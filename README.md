@@ -44,11 +44,11 @@ I like to **create and contribute** to open source projects. In my free time, I 
 
 ### Recent Blogs 
 <!-- BLOG-POST-LIST:START -->
+- [6 different ways to reverse a string in Python](https://adicode.ml/6-different-ways-to-reverse-a-string-in-python)
 - [Divide and Conquer Algorithms in Python](https://adicode.ml/divide-and-conquer-algorithms-in-python)
 - [A frustrating end to debugging my silly error in Python](https://adicode.ml/debugging-experience)
 - [Take your web development to next level with these python libraries.](https://adicode.ml/python-libraries-for-webdevelopment)
 - [Python&#39;s Role in Spotify&#39;s Cutting Edge Technology](https://adicode.ml/pythons-role-in-spotifys-cutting-edge-technology)
-- [Python - The easy way](https://adicode.ml/python-the-easy-way)
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
