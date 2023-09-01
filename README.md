@@ -52,6 +52,8 @@ I like to **create and contribute** to open source projects. In my free time, I 
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegeekyb0y&theme=algolia&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
