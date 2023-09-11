@@ -28,6 +28,7 @@ I like to **create and contribute** to open source projects. In my free time, I 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 </div>     
 
 
