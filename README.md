@@ -10,10 +10,8 @@ I am passionate about **open-source, coding, and web technologies**.
 I like to **create and contribute** to open source projects. In my free time, I do **content creation/blogging** and share my learnings to world.
 
 ### I'm open to:
-- Sponsorships 
 - Work oppurtunities
 - Collaborations for projects
-- Developer advocacy oppurtunities 
 ---
 
 ## Languages and tools  </>
@@ -43,7 +41,7 @@ I like to **create and contribute** to open source projects. In my free time, I 
 
 ---
 
-### Recent Blogs 
+### Blogs (2024 & before)
 <!-- BLOG-POST-LIST:START -->
 - [Scikit-Learn Reference/Cheatsheet](https://adityacodes.hashnode.dev/scikit-learn-referencecheatsheet)
 - [From Eliza to GPT-4: The Evolution of Large Language Models &lpar;LLMs&rpar;](https://adityacodes.hashnode.dev/large-language-models)
@@ -53,7 +51,6 @@ I like to **create and contribute** to open source projects. In my free time, I 
 <!-- BLOG-POST-LIST:END -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegeekyb0y&theme=algolia&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
