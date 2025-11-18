@@ -5,9 +5,7 @@
 </p>
 
 
-I am a **Front End Developer** based in India.&nbsp;
-I am passionate about **open-source, coding, and web technologies**.
-I like to **create and contribute** to open source projects. In my free time, I do **content creation/blogging** and share my learnings to world.
+I am a **Full Stack Developer** based in India.&nbsp;
 
 ### I'm open to:
 - Work oppurtunities
@@ -49,9 +47,6 @@ I like to **create and contribute** to open source projects. In my free time, I 
 - [Top 8 Must-Have Developer Resources for Programmers in 2023](https://adityacodes.hashnode.dev/top-8-must-have-developer-resources-for-programmers-in-2023)
 - [Make your Debugging easier with these 8 tips in Python](https://adityacodes.hashnode.dev/make-your-debugging-easier-with-these-8-tips-in-python)
 <!-- BLOG-POST-LIST:END -->
-### ⚙️ &nbsp;GitHub Analytics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegeekyb0y&theme=algolia&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
