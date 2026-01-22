@@ -9,7 +9,7 @@ I’m a **Full-Stack Developer** focused on building scalable, user-centric soft
 
 ### 🟢 Current Status
 * _**Available for work**_
-* **Current Project:** Kraked: Collaborative Study Platform
+* **Current Project:** LinkCN : Not just limited to links
 * **Learning:** Query Optimization, System Design
 
 
