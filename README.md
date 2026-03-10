@@ -13,7 +13,7 @@ I’m a **Full-Stack Developer** focused on building scalable, user-centric soft
 * **Learning:** Query Optimization, System Design
 
 
-[Connect with Me](https://bento.me/adityatiwari)  
+[Connect with Me](https://twitter.com/thegeekyb0y) 
 
 ![](https://komarev.com/ghpvc/?username=thegeekyb0y)
 
