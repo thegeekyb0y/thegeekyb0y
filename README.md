@@ -9,7 +9,7 @@ I’m a **Full-Stack Developer** focused on building scalable, user-centric soft
 
 ### 🟢 Current Status
 * _**Available for work**_
-* **Current Project:** LinkCN : Not just limited to links
+* **Current Project:** npmSearch
 * **Learning:** Query Optimization, System Design
 
 
