@@ -9,8 +9,8 @@ I’m a **Full-Stack Developer** focused on building scalable, user-centric soft
 
 ### 🟢 Current Status
 * _**Available for work**_
-* **Current Project:** npmSearch
-* **Learning:** Query Optimization, System Design
+* **Current Project:** npmSearch, vedaAI
+* **Learning:** System Design
 
 
 [Connect with Me](https://twitter.com/thegeekyb0y) 
