@@ -9,7 +9,7 @@ I’m a **Full-Stack Developer** focused on building scalable, user-centric soft
 
 ### 🟢 Current Status
 * _**Available for work**_
-* **Current Project:** npmSearch, vedaAI
+* **Current Project:** npmSearch, portfolio website
 * **Learning:** System Design
 
 
