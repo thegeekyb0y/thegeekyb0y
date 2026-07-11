@@ -1,3 +1,5 @@
+[~/whoami](https://thegeekyb0y.vercel.app)
+
 I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
 
 ### 🏗️ Current Stack 
@@ -5,15 +7,15 @@ I’m a **Full-Stack Developer** focused on building scalable, user-centric soft
 * **Frontend:** React, Next.js, HTML/CSS
 * **Backend:** Node.js, Express
 * **Database & ORM** PostgreSQL, MongoDB, Prisma, Drizzle, Upstash-Redis
-* **Tools:** Git, Docker, Linux, Vercel, Neon, Cursor, VSCode
 
 ### 🟢 Current Status
 * _**Available for work**_
-* **Current Project:** npmSearch, portfolio website
+* **Current Project:** Pick'em : Realtime Voting System
 * **Learning:** System Design
 
 
-[Connect with Me](https://twitter.com/thegeekyb0y) 
+[Connect with Me](https://twitter.com/thegeekyb0y)  
+
 
 ![](https://komarev.com/ghpvc/?username=thegeekyb0y)
 
